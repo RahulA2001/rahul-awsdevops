@@ -1,0 +1,8 @@
+first repo
+
+This is git repo file 
+
+step 1 - git init
+step 2 - create new folder 
+Step 3 - create a file .txt
+Step 4 - git add * (for entire folder /for file) file name
