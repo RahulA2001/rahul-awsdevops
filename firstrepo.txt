@@ -1,8 +1,12 @@
 first repo
-
 This is git repo file 
-
+//* Steps to config git to github *//
 step 1 - git init
 step 2 - create new folder 
 Step 3 - create a file .txt
 Step 4 - git add * (for entire folder /for file) file name
+Step 5 - git remote origin https://github.com/RahulA2001/rahul-awsdevops.git
+Step 6 - git commit -m "descripiton for commit"
+Step 7 - git push -u origin main
+Step 8 - git log
+Step 9 - git pull https://github.com/RahulA2001/rahul-awsdevops.git
